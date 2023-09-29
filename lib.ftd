@@ -281,19 +281,19 @@ margin-vertical.px: 10
 margin-horizontal.px: 10
 text-align: center
 align-self: center
-color: white
+color: blue
 
 -- ftd.row:
 width: fill-container
 height: fill-container
-align-content: right
+align-content: center
 
 -- ftd.text: $header-desktop.cta-text-1
 role: $inherited.types.label-large
 text-align: center
 margin-vertical.px: 28
 margin-horizontal.px: 32
-color: white
+color: blue
 link: $header-desktop.cta-text-1-url
 
 
@@ -302,7 +302,7 @@ role: $inherited.types.label-large
 text-align: center
 margin-vertical.px: 28
 margin-horizontal.px: 0
-color: white
+color: yellow
 link: $header-desktop.cta-text-2-url
 
 
@@ -311,7 +311,7 @@ role: $inherited.types.label-large
 text-align: center
 margin-vertical.px: 28
 margin-horizontal.px: 32
-color: white
+color: blue
 link: $header-desktop.cta-text-3-url
 
 -- ftd.text: $header-desktop.cta-text-4
@@ -320,7 +320,7 @@ role: $inherited.types.label-large
 text-align: center
 margin-vertical.px: 28
 margin-horizontal.px: 32
-color: white
+color: blue
 link: $header-desktop.cta-text-4-url
 
 -- ftd.text: $header-desktop.cta-text-5
@@ -338,7 +338,7 @@ role: $inherited.types.label-large
 text-align: center
 margin-vertical.px: 28
 margin-horizontal.px: 32
-color: white
+color: blue
 link: $header-desktop.cta-text-6-url
 
 -- end: ftd.row
