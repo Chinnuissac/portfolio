@@ -302,7 +302,7 @@ role: $inherited.types.label-large
 text-align: center
 margin-vertical.px: 28
 margin-horizontal.px: 0
-color: yellow
+color: light yellow
 link: $header-desktop.cta-text-2-url
 
 
